@@ -1,1 +1,1 @@
-# Projelerim için cdn dosyaları dileyenler kullanabilir.
+# Those who wish can use cdn files for my projects.
