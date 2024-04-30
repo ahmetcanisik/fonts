@@ -1,0 +1,1 @@
+# Projelerim için cdn dosyaları dileyenler kullanabilir.
